@@ -18,6 +18,19 @@ Database Insertion → Pushed to MySQL using Python
 SQL Queries → For analytical insights
 Power BI → Built dynamic dashboards from structured DB
 
+## 🔄 Workflow :- 
+ ** Web Scraping with Python**
+1.Target website: Indeed.com
+2.Extracted fields:
+Job Title, Company, Location
+3.Tools used:
+requests for sending HTTP requests
+BeautifulSoup for HTML parsing
+pandas for DataFrame creation
+4.Saved data to:
+.csv file
+MySQL database using mysql-connector-python and SQLAlchemy
+
 ## 🧠 Key Features :-
 
 ✅ Scraped job data (title, company, location)
