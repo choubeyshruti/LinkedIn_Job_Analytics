@@ -66,11 +66,13 @@ Area Chart  | Goal tracking job targets
 ![linkdin page 3](https://github.com/user-attachments/assets/305ed8d6-399e-4a76-84f4-1c0f3220abbd) 
 
 ## 💡 Key Insights :- 
-💡 Key Insights
-**Bangalore** has the highest job availability
-**Google, Amazon, Flipkart** are top recruiters
-Most jobs are **Full-time**
-Common roles: **Data Analyst, ML Engineer, BI Consultant**
+1.Top Cities Hiring:**Bangalore, Mumbai, Gurgaon**
+2.Most Common Roles:**Data Analyst, Data Engineer, Data Scientist**
+3.Hiring Segments:
+📦 **Startups**
+🏢**MNCs**
+💳**Banking & Finance**
+Spike in contract jobs in specific regions.
 
 
 
