@@ -4,6 +4,7 @@ LinkedIn Job Analytics (SQL + Python + Power BI)
 I built this end-to-end data analysis project to  study job market trends using real-time job listings from LinkedIn and Indeed-style sources. It covers web scraping, data storage using MySQL, ETL pipeline using Python, and powerful visualization using Power BI dashboards.
 
 ## 🛠 Tech Stack Used 
+
    Layer                     | Tools / Technologies
 📥 Web Scraping             | requests, BeautifulSoup4
 🧠 Data Handling            | pandas, CSV, SQLAlchemy, mysql-connector-python
